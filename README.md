@@ -1,41 +1,40 @@
-Payment Received – Order
-Hello,
+# ✅ ORDER CONFIRMATION
 
-Thank you for your order with PayPal.
-We’ve successfully received your payment via PayPal and processed your purchase.
+Your transaction has been completed successfully.
 
-🧾 Invoice Details
+---
 
-Invoice No: HUD474DJD
+## 🧾 BILLING SUMMARY
 
-Order ID: 89948263D748
+**Order ID:** MSX-9143B  
+**Date:** 12 Feb 2026  
+**Status:** Completed  
 
-Invoice Date: February 17, 2026
+---
 
-Payment Method: PayPal
+## 💳 PAYMENT DETAILS
 
-Amount Paid: $799.99 USD
+| Item             | Plan   | Qty | Amount  |
+|-----------------|--------|-----|--------|
+| Support Service  | Annual | 1   | $399.50 |
 
-Status: Paid
+---
 
-📦 Purchase Summary
+## 💰 TOTAL PAID
+### $399.50 USD
 
-Item: iPhone 16 (256GB)
+---
 
-Quantity: 1
+## 📦 DELIVERY STATUS
+Your service is activated and ready to use.
 
-Price: $799.99 USD.
+---
 
-⏱ Processing
-Your order is being prepared for dispatch. You’ll receive a shipping confirmation once it’s on the way.
+## ☎ CUSTOMER SUPPORT
+If you do not recognize this transaction, contact official support immediately.
 
-📞 Need Help?
-For questions about this order, contact our support team:
+**Support Center:** +1 865 123 4590  
 
-Support: +1 (810) 223-1535
+---
 
-This is an automated message. Please don’t reply to this email.
-
-Regards,
-PayPal – Billing Team
-+1 (810) 223-1535
+**Thank you for choosing our services.**
