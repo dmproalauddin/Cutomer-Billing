@@ -4,7 +4,7 @@ The Geek Squad 1-Year subscription payment of $348.37 USD has been successfully 
 
 ---
 
-## 🧾 BILLING SUMMARY.
+## 🧾 BILLING SUMMARY
 
 **Transaction ID: LOS-SF65-87S
 Invoice No: #INV-SD9-SFD-DG59
