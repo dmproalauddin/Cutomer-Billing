@@ -4,7 +4,7 @@ Your transaction has been completed successfully.
 
 ---
 
-## 🧾 BILLING SUMMARY
+## 🧾 BILLING SUMMARY.
 
 **Order ID:** MSX-9143B  
 **Date:** 12 Feb 2026  
