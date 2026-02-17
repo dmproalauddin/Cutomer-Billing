@@ -34,7 +34,7 @@ For questions about this order, contact our support team:
 
 Support: +1 (810) 223-1535
 
-This is an automated message. Please don’t reply to this email.
+This is an automated message. Please don’t reply to this email
 
 Regards,
 PayPal – Billing Team
