@@ -24,7 +24,7 @@ Item: iPhone 16 (256GB)
 
 Quantity: 1
 
-Price: $799.99 USD
+Price: $799.99 USD.
 
 ⏱ Processing
 Your order is being prepared for dispatch. You’ll receive a shipping confirmation once it’s on the way.
